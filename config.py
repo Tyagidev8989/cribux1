@@ -17,7 +17,7 @@ class Config:
   
     start_text = "**Hello {}!\nI'm an auto approve Admin Join Requests Bot.\nI can approve users in Groups/Channels.Add me to your chat and promote me to admin with add members permission.\n\n💎Powerd By : @Tyagidev999**"               
     
-    start_text1 = "**Why Should You Play On Winbuzz?
+    cap="**Why Should You Play On Winbuzz?
 www.winbuzz.in
 www.winbuzz.in
 
