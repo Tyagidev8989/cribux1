@@ -17,31 +17,7 @@ class Config:
   
     start_text = "**Hello {}!\nI'm an auto approve Admin Join Requests Bot.\nI can approve users in Groups/Channels.Add me to your chat and promote me to admin with add members permission.\n\n💎Powerd By : @Tyagidev999**"               
     
-    cap="**Why Should You Play On Winbuzz?
-www.winbuzz.in
-www.winbuzz.in
-
-Most Popular & Trusted International Betting Site Since 2009 ( Powered By Betfair )
-
-➜ 2022 Best Betting Site Award
-➜ Legal In India & 165+ Countries
-➜ 24 Hour Auto Deposit Withdraw
-➜ Fastest & Smooth Site (No Hang)
-➜ Minimum ID 100 Rs Only
-➜ No Documentation, No Tax
-
-Play Cricket, Tennis, Football, & 300+ Type Live Casino Goa Games Like TeenPatti, Roulette, Dragon Tiger, Amar Akbar Anthony ETC😍
-
-Register Fast 👇
-www.winbuzz.in
-www.winbuzz.in
-
-Agar WhatsApp Pe Account Banana Hai To Neeche Link Pe Click Karo👇
-https://wa.link/winbuzz
-Telegram Official Channel 👇
-https://t.me/+hmPTIXug_RI2ZTA0
-Payment Proof 👇
-https://t.me/+hJKrO5uBFVRiNmRl**"
+    cap="**HY**"
 
         
   
