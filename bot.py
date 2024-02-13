@@ -33,7 +33,7 @@ async def approve(c, m):
    
     
     await c.approve_chat_join_request(chat_id, user_id)
-    await c.send_photo(user_id, photo="https://mallucampaign.in/images/img_1706091703.jpg", caption=Config.cap.format(user.mention, m.chat.title))
+    await c.send_photo(user_id, photo="https://mallucampaign.in/images/img_1707759373.jpg", caption=Config.cap.format(user.mention, m.chat.title))
 
 
 
