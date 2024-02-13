@@ -17,7 +17,7 @@ class Config:
   
     start_text = "**Hello {}!\nI'm an auto approve Admin Join Requests Bot.\nI can approve users in Groups/Channels.Add me to your chat and promote me to admin with add members permission.\n\n💎Powerd By : @Tyagidev999**"               
     
-    cap="**HY\n hy\n hy**"
+    cap="Why Should You Play On Winbuzz?\nwww.winbuzz.in\nwww.winbuzz.in\n Most Popular & Trusted International Betting Site\nSince 2009 ( Powered By Betfair )"
 
         
   
